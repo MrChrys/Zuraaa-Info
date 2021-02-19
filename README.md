@@ -1,25 +1,27 @@
 <div align="center">
-<img src="https://nodei.co/npm/zuraaa-info.png?downloads=true&stars=true" alt=" ">
+<img src="https://nodei.co/npm/zuraaa.com.png?downloads=true&stars=true" alt=" ">
 </div>
 
 
 # Pegar informação completa
 ```js
-const zuraaa = require("zuraaa-test")
-zuraaa(<botId>)
+const zapi = require("zuraaa-test")
+const zuraaa = new zapi(<botId>)
 
-zuraaa.info()
+zuraaa.bot
 ```
 
 # Pegar votos
 ```js
-const zuraaa = require("zuraaa-test")
-zuraaa(<botId>)
+const zapi = require("zuraaa-test")
+const zuraaa = new zapi(<botId>)
 
-zuraaa.votes()
+zuraaa.votes
 ```
 
 
 Encontrou um bug?
 
 [me chama na dm: MrChrys#1897](https://discord.com)
+
+[GitHub](https://github.com/MrChrys/Zuraaa-Info)

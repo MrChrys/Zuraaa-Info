@@ -17,6 +17,6 @@
 
 
 let a = require("../index.js")
-a("796443843004072016")
+const zuraaa = new a("796443843004072016")
 
-console.log(require('util').inspect(a.votes(), { depth: 0 }).replace(/['']/g, ""))
+console.log(require('util').inspect(zuraaa.info, { depth: 0 }))
