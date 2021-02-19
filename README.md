@@ -1,6 +1,8 @@
 <div align="center">
-<img src="https://nodei.co/npm/zuraaa-info.png?downloads=true&stars=true" alt="Package banner">
+<img src="https://nodei.co/npm/zuraaa-info.png?downloads=true&stars=true" alt=" ">
 </div>
+
+
 # Pegar informação completa
 ```js
 const zuraaa = require("zuraaa-test")
@@ -19,6 +21,5 @@ zuraaa.votes()
 
 
 Encontrou um bug?
-[me chama na dm: MrChrys#1897](https://nmpjs.com/package/zuraaa-info)
 
-[GitHub](https://matias.ma/nsfw/)
+[me chama na dm: MrChrys#1897](https://discord.com)
