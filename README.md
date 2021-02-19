@@ -21,6 +21,5 @@ zuraaa.votes()
 
 
 Encontrou um bug?
-[me chama na dm: MrChrys#1897](https://nmpjs.com/package/zuraaa-info)
 
-[GitHub](https://matias.ma/nsfw/)
+[me chama na dm: MrChrys#1897](https://discord.com)
