@@ -2,14 +2,14 @@
 <img src="https://nodei.co/npm/zuraaa-info.png?downloads=true&stars=true" alt="Package Banner">
 </div>
 <div align="center">
-
+```
     ---------------------------------
 Zuraaa! info
     ---------------------------------
     Desenvolvido por: MrChrys#1897
     
     Testes feitos por: MrChrys#1897
-    
+```
 ' - '
 </div>
 
