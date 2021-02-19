@@ -1,18 +1,6 @@
 <div align="center">
-<img src="https://nodei.co/npm/zuraaa-info.png?downloads=true&stars=true" alt="Package Banner">
+<img src="https://nodei.co/npm/zuraaa-info.png?downloads=true&stars=true" alt="Package banner">
 </div>
-<div align="center">
-```
-    ---------------------------------
-Zuraaa! info
-    ---------------------------------
-    Desenvolvido por: MrChrys#1897
-    
-    Testes feitos por: MrChrys#1897
-```
-' - '
-</div>
-
 # Pegar informação completa
 ```js
 const zuraaa = require("zuraaa-test")
